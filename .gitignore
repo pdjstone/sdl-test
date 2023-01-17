@@ -1,0 +1,4 @@
+*.html
+*.js
+*.wasm
+sdl_test

@@ -8,3 +8,8 @@ native:
 
 serve:	wasm
 	python3 -m http.server
+
+
+clean:
+	rm sdl_test
+	rm *.wasm *.js *.html
